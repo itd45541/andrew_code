@@ -1,0 +1,1 @@
+to open app open the 7citiesfinal.html file in testrun
